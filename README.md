@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @annakukova
 - 👀 I’m interested in frontend development and UI/UX design.
-- 🌱 I’m currently learning how to create single-page applications with React.
+- 🌱 I have beginner level experience React, and am currently learning SolidJS. I'm also trying to enhance my skills with some Tailwind CSS.
 - 📫 How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/anna-kukova-b091791a1/
