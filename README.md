@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @annakukova
 - 👀 I’m interested in frontend development and UI/UX design.
-- 🌱 I have beginner level experience React, and am currently learning SolidJS. I'm also trying to enhance my skills with some Tailwind CSS.
+- 🌱 I have beginner level experience React and SolidJS. I also work with Tailwind CSS, SASS, and DaisyUI for creating more uniform components.
+- Additional exterience: C#, Java, JavaScript, TypeScript
 - 📫 How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/anna-kukova-b091791a1/
