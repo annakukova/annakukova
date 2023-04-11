@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @annakukova
-- 👀 I’m interested in frontend development and UI/UX design.
-- 🌱 I have beginner level experience React and SolidJS. I also work with Tailwind CSS, SASS, and DaisyUI for creating more uniform components.
-- Additional exterience: C#, Java, JavaScript, TypeScript
+- 👀 I’m interested in full stack development and UI/UX design.
+- 🌱 I code in C# and Java. I have beginner level experience in React with JavaScript and SolidJS with Typescript. I also use Tailwind CSS and SASS.
 - 📫 How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/anna-kukova-b091791a1/
